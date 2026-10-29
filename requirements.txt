@@ -1,0 +1,7 @@
+# Python dependencies for model fitting (Human/, Monkey/, rat/)
+# The paper used Python 3 and PyDDM 0.7.0 (PyDDM's API changed in later releases).
+pyddm==0.7.0
+numpy
+scipy
+pandas
+matplotlib
